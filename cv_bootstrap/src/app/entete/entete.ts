@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-entete',
+  selector: 'entete-cv',
   imports: [],
   templateUrl: './entete.html',
   styleUrl: './entete.scss',
