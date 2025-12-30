@@ -33,7 +33,7 @@
 
 @font-face {
     font-family: "Sensation_Regular";
-    src: url('../sansation/Sansation_Regular.ttf') format('truetype');
+    src: url('../assets/sansation/Sansation_Regular.ttf') format('truetype');
 }
 
 header span{
