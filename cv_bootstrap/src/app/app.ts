@@ -5,10 +5,11 @@ import { Entete } from './entete/entete';
 import { Contact } from './contact/contact';
 import {Competence} from './competence/competence'
 import { Langue } from './langue/langue';
+import { Experience } from './experience/experience';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet, Entete, Contact, Competence, Langue],
+  imports: [RouterOutlet, Entete, Contact, Competence, Langue, Experience],
   templateUrl: './app.html',
   styleUrl: './app.scss'
 })
