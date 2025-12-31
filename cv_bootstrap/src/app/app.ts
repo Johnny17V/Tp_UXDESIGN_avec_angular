@@ -3,10 +3,11 @@ import { RouterOutlet } from '@angular/router';
 
 import { Entete } from './entete/entete';
 import { Contact } from './contact/contact';
+import {Competence} from './competence/competence'
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet, Entete, Contact],
+  imports: [RouterOutlet, Entete, Contact, Competence],
   templateUrl: './app.html',
   styleUrl: './app.scss'
 })
