@@ -2,17 +2,14 @@
     display: flex;
     flex-direction: column;
 }
-
-
 */
+
 .darkZone{
-    color: rgb(220, 228, 242);
-    background-color: rgb(10, 44, 89);
+    /* color et background gérés par Bootstrap bg-primary text-secondary */
 }
 
 .lightZone{
-    color: rgb(10, 44, 89);
-    background-color: rgb(220, 228, 242);
+    /* color et background gérés par Bootstrap bg-secondary text-primary */
 }
 
 
