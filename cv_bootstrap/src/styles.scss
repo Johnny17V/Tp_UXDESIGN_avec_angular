@@ -1,8 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
 
-// Personnalisation des couleurs Bootstrap
-$primary: rgb(10, 44, 89); // Couleur dark (bleu)
-$secondary: rgb(220, 228, 242); // Couleur light (gris)
+$primary: rgb(10, 44, 89);
+$secondary: rgb(220, 228, 242); 
 
-// Importer Bootstrap
+
 @import 'bootstrap/scss/bootstrap';
